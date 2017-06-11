@@ -3,21 +3,21 @@ body {
   font-family: helvetica;
 }
 
-.heading {
-  color: white;
-  background-image: ("/resources/images/the-flatiron-building.png");
-  text-align: center;
-  font-family: helvetica;
+.head {
+  background-image: url(../images/the-flatiron-building.png);
+  background-position: center;
   font-weight: bold;
 }
 
-.heading h1 {
-  font-size: 70px
+div,
+.headfont {
+  font-size: 50px;
+  color: white
 }
 
-.heading h4 {
-  font-size: 23px
 
+a {
+  color: white;
 }
 
 h3  {
