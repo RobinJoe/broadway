@@ -3,6 +3,15 @@
   background-image: ("/resources/images/the-flatiron-building.png");
   text-align: center;
   font-family: helvetica;
+  font-weight: bold;
+}
+
+.heading h1 {
+  font-size: 70px
+}
+
+.heading h4 {
+  font-size: 23px
 }
 
 h3  {
